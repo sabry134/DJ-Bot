@@ -1,6 +1,6 @@
-# Welcome to MkDocs
+# Welcome to DJ Bot Support
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+DJ Bot is a multifunctional bot with several commands sorted into several categories. It is optimized the best it can be in order to bring the best experience for users. Soo what are you waiting for? Go try it out!
 
 ## Commands
 
